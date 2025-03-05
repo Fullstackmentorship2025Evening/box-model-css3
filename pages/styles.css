@@ -1,0 +1,53 @@
+header{
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+nav ul {
+    display: flex;
+}
+nav ul li {
+    text-decoration: none;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 0 10px;
+}
+header h1{
+    color: white;
+}
+
+/* from home */
+.home{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    font-weight: 900;
+    color:brown;
+    margin-top: 200px;
+}
+
+.about{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    font-weight: 900;
+    color:brown;
+    margin-top: 200px;
+}
+.back {
+    background-color: gray;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+}
+
+
+p{
+    font-weight: 600;
+}

@@ -1,0 +1,124 @@
+.boxes{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 500px;
+    
+    /* flex Box */
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    /* flex-direction: row-reverse; */
+}
+.box1{
+    border: 2px solid red;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+}
+
+.box2{
+    border: 2px solid green;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+    border-top-right-radius: 50px;
+}
+
+.box3{
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.box4{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+    border-right: 2px solid white;
+}
+
+.box5{
+    border: 2px solid cyan;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    
+}
+.box6{
+    border: 2px solid magenta;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+    border-left: 2px dotted red;
+    border-right: 2px dashed green;
+    border-top: 2px double blue;
+}
+
+.box7{
+    border: 2px solid yellow;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+    
+}
+
+.box8{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+}
+
+.box9{
+    border: 2px solid orange;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+}
+
+.box10{
+    border: 2px solid dodgerblue;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+}
+
+.box11{
+    border: 2px solid brown;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+}
+
+
+.box12{
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+}
+
+.box13{
+    border: 2px solid darkblue;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+}
+
+.box14{
+    border: 2px solid orangered;
+    padding: 10px;
+    margin: 10px;
+    width: 25px;
+}
